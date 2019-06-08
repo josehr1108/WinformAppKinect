@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto Redes", "WindowsFormsApp1\Proyecto Redes.csproj", "{779B85BA-F992-43F8-A2BE-794BBAEA256E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779B85BA-F992-43F8-A2BE-794BBAEA256E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779B85BA-F992-43F8-A2BE-794BBAEA256E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779B85BA-F992-43F8-A2BE-794BBAEA256E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779B85BA-F992-43F8-A2BE-794BBAEA256E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D77DD2B-47A0-4A6D-A49F-BD6D756D5469}
+	EndGlobalSection
+EndGlobal
